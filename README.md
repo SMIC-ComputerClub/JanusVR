@@ -5,7 +5,7 @@ Current Status
 --------------
 
 October 7th, 2016
-- Website subject: ??? * please upload html and model files here!
+- Website subject: ??? *please upload html and model files here!*
 - Models done: ???
 - Models in progress: ???
 - Models in planning: ???
