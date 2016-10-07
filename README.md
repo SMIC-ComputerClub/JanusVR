@@ -5,11 +5,11 @@ Current Status
 --------------
 
 October 7th, 2016
--Website subject: ??? * please upload html and model files here!
--Models done: ???
--Models in progress: ???
--Models in planning: ???
--Planned release date: ???
+- Website subject: ??? * please upload html and model files here!
+- Models done: ???
+- Models in progress: ???
+- Models in planning: ???
+- Planned release date: ???
 
 High School Computer Club - JanusVR Webpage Project
 ---------------------------------------------------
