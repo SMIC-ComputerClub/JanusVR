@@ -1,6 +1,19 @@
 # JanusVR
 Building a 3D website in JML/HTML for view in a 3D web browser such as JanusVR
 
+Current Status
+--------------
+
+October 7th, 2016
+
+Website subject: ??? * please upload html and model files here!
+
+Models done: ???
+Models in progress: ???
+Models in planning: ???
+
+Planned release date: ???
+
 High School Computer Club - JanusVR Webpage Project
 ---------------------------------------------------
 
