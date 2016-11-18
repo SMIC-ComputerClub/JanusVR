@@ -7,8 +7,8 @@ Current Status
 October 7th, 2016
 - Website subject: ??? *please upload html and model files here!*
 - Models done: ???
-- Models in progress: ???
-- Models in planning: ???
+- Models in progress: Making room structure ???
+- Models in planning: Shark center piece? Other decorative pieces? ???
 - Planned release date: ???
 
 High School Computer Club - JanusVR Webpage Project
